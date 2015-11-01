@@ -25,7 +25,7 @@ header-img: "img/green.jpg"
 
 ###我的朋友们
 
--  没有朋友..
+-  [庄鸣真](http://frankorz.com/)
 
 
 ###联系
