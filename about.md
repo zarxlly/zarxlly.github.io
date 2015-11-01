@@ -7,7 +7,7 @@ header-img: "img/green.jpg"
 
 
 <center>
-    <p><img src="https://img2.doubanio.com/view/photo/raw/public/p643167927.jpg" align="center"></p>
+    <p><img src="http://imgsrc.baidu.com/forum/pic/item/0e85a886c9177f3e5fb958fb76cf3bc79e3d5600.jpg" align="center"></p>
 </center>
 
 我是郑傲然，Android开发者，曾打了两年ACM的酱油，智商备受碾压，现在一心奔向开发。
