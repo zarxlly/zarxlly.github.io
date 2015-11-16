@@ -26,6 +26,7 @@ header-img: "img/green.jpg"
 ###我的朋友们
 
 -  [庄鸣真](http://frankorz.com/)
+-  [AiorosXu-徐永强 ](https://github.com/AiorosXu)
 
 
 ###联系
